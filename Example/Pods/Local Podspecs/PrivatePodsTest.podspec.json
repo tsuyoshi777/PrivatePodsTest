@@ -1,0 +1,22 @@
+{
+  "name": "PrivatePodsTest",
+  "version": "0.1.0",
+  "summary": "A short description of PrivatePodsTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tsuyoshi777/PrivatePodsTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tsuyoshi777": "t12619tt@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tsuyoshi777/PrivatePodsTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivatePodsTest/Classes/**/*"
+}
